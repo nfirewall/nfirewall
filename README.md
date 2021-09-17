@@ -1,6 +1,6 @@
 # nfirewall
 
-This project is a collection of applications to provide a gui and API for managing a number of distributed netfilter firewalls.
+This project is a collection of applications to provide a gui and API for managing a number of distributed nftables firewalls.
 
 ## Architecture
 
